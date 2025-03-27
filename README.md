@@ -72,7 +72,7 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/7939602f-6448-4f11-a29a-6da65634457f)
+![image](https://github.com/user-attachments/assets/9cc4c17c-5c0f-4009-9350-f55697fef1ab)
 
 
 ## RESULT
